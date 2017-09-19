@@ -44,7 +44,7 @@ int main(void){
 			aux = 0;
 
 		}
-		printf("Sao necessarias \n%d de (R$100.00), \n%d de (R$50.00), \n%d de (R$20.00), \n%d de (R$10.00), \n%d de (R$5.00), \n%d de (R$2.00)  \n%d de (R$1.00)\n", x, y, z, a, b, c, d);
+		printf("Sao necessarias: \n%d - (R$100.00) \n%d - (R$50.00) \n%d - (R$20.00) \n%d - (R$10.00) \n%d - (R$5.00) \n%d - (R$2.00)  \n%d - (R$1.00)\n", x, y, z, a, b, c, d);
 	}else{
 		printf("%s\n", "ERRO, valor invalido!!!");
 		return 0;
