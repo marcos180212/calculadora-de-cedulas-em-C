@@ -8,7 +8,7 @@ int main()
 	scanf("%d", &n); // entrada do valor;
 	
 	i = 0;
-	while(n > 0) // loop atÈ o valor se igualar a zero;
+	while(n > 0) // loop at√© o valor se igualar a zero;
 	{
 		if(n < cedulas[i]){ // verifica se o valor e menor que o tipo de cedula;
 			i++;
